@@ -130,7 +130,7 @@ Travel beyond established public routes is best undertaken with local guidance.
 
 ## Related Publications
 
-- **USICA TR-001** — *Welcome to Elemara*
+- **USICA TR-000** — *Welcome to Elemara*
 - **USICA LG-001** — *Languages of Elemara*
 - **USICA GS-002** — *Regional Map: Ssalith* *(Scheduled for Publication)*
 - **USICA PS-003** — *Wetland Travel Advisory* *(Scheduled for Publication)*

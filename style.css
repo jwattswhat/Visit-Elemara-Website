@@ -358,6 +358,28 @@ h3 {
     box-shadow: 0 12px 30px rgba(0, 0, 0, 0.18);
 }
 
+.destination-card--restricted {
+    border: 3px solid #a62f22;
+    cursor: not-allowed;
+}
+
+.destination-card--restricted:hover {
+    transform: none;
+    box-shadow: 0 4px 14px rgba(20, 35, 58, 0.08);
+}
+
+.destination-card--restricted .destination-card-copy {
+    border-top: 3px solid #a62f22;
+}
+
+.destination-card--restricted p {
+    color: #a62f22;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
 .destination-card a {
     display: block;
     height: 100%;
